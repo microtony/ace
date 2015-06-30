@@ -119,9 +119,7 @@
   ["identifier","b"],
   ["punctuation.operator",";"],
   ["text"," "],
-  ["comment","// single line comment\\"]
-],[
-   "comment",
+  ["comment","// single line comment\\"],
   ["comment","        continued"]
 ],[
    "start",
