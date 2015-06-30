@@ -83,7 +83,7 @@
    "start"
 ],[
    "start",
-   ["comment","//"],
+   ["comment","//"]
 ],[
    "start",
   ["storage.type","int"],
