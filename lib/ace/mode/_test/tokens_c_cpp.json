@@ -83,6 +83,9 @@
    "start"
 ],[
    "start",
+   ["comment","//"],
+],[
+   "start",
   ["storage.type","int"],
   ["text"," "],
   ["identifier","main"],
@@ -114,7 +117,12 @@
   ["keyword.operator","="],
   ["text"," "],
   ["identifier","b"],
-  ["punctuation.operator",";"]
+  ["punctuation.operator",";"],
+  ["text"," "],
+  ["comment","// single line comment\\"]
+],[
+   "comment",
+  ["comment","        continued"]
 ],[
    "start",
   ["text","    "],
